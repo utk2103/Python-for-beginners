@@ -25,12 +25,10 @@ The project covers various data types in Python, including:
 
 ## Libraries
 
-This project focuses on the usage of the following essential libraries:
-
 1. Matplotlib: A popular data visualization library that provides a wide range of plotting options, enabling the creation of various charts, graphs, and visualizations.
 
 2. Pandas: A powerful library for data manipulation and analysis. Pandas provides data structures and functions to efficiently handle structured data, perform data cleaning, filtering, aggregation, and more.
 
 3. NumPy: A fundamental library for numerical computing in Python. NumPy provides support for handling large, multi-dimensional arrays and a collection of mathematical functions for efficient numerical operations.
 
-Happy coding!
+**Happy coding!**
