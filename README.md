@@ -31,4 +31,6 @@ The project covers various data types in Python, including:
 
 3. NumPy: A fundamental library for numerical computing in Python. NumPy provides support for handling large, multi-dimensional arrays and a collection of mathematical functions for efficient numerical operations.
 
+4. Seaborn: A data visualization library that provides a wide range of plotting options and also require less line of code than matplotlib with more number of plotting options like heatmap etc.  
+
 **Happy coding!**
