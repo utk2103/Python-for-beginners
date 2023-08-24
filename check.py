@@ -27,10 +27,10 @@ movieList = ["-Inception",
 ]
 
 for movie in movieList:
-    print(f"This is {movielist}")
+    print(f"This is {movieList}")
 
     # print using code snippet
     print(f"")
-    print(f" {}") 
+    print(f" {a}") 
     
     
