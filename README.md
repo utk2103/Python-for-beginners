@@ -1,4 +1,4 @@
-# Learning_python
+# Python-for-beginners
 
 
 Here i'm learning the basics of Python programming and exploring various data types and essential libraries such as Matplotlib, Pandas, and NumPy. I also added some short but yet very useful in development like file handling serialization and deserialization, exception handling, decorators and namespaces.
@@ -62,7 +62,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone git@github.com:this-is-you/Learning_python.git
+git clone git@github.com:this-is-you/Python-for-begineers.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -72,7 +72,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd Learning_python
+cd Python-for-begineers
 ```
 
 Now create a branch using the `git switch` command:
