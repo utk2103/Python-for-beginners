@@ -6,7 +6,7 @@ if __name__ == "__main__":
     # Adding positional arguments
     parser.add_argument("number1", help='First number', type=int)
     parser.add_argument("number2", help='Second number', type=int)
-    parser.add_argument("operation", help='Operation (add, subtract, multiply)')
+    parser.add_argument("operation", help='Operation (add, subtract, multiply)', choices=["add", "subtract", "multiply"])
 
     args = parser.parse_args()
 
