@@ -27,3 +27,7 @@ t1.join()
 t2.join()
 
 print("done in : ",time.time()-t)
+
+
+# programs of multithreading and multiprrocessing are in below repo
+# https://github.com/codebasics/py/tree/master/Multiprocessing
