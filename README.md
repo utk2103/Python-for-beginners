@@ -4,6 +4,11 @@
 Here i'm learning the basics of Python programming and exploring various data types and essential libraries such as Matplotlib, Pandas, and NumPy. I also added some short but yet very useful in development like file handling serialization and deserialization, exception handling, decorators and namespaces.
 The project aims to provide hands-on experience with Python's core concepts and commonly used data manipulation and visualization libraries.
 
+#### Refer this blog for every single resource
+```
+https://shorturl.at/CVc5c
+```
+
 
 ## Installation
 
