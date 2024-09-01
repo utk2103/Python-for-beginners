@@ -5,9 +5,8 @@ Here i'm learning the basics of Python programming and exploring various data ty
 The project aims to provide hands-on experience with Python's core concepts and commonly used data manipulation and visualization libraries.
 
 #### Refer this blog for every single resource
-```
-https://shorturl.at/CVc5c
-```
+
+[Blog](https://shorturl.at/CVc5c)
 
 
 ## Installation
