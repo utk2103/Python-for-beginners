@@ -2,9 +2,9 @@
 
 Welcome! This repository is designed for anyone starting with Python, offering hands-on practice with core concepts, data types, and essential libraries like Matplotlib, Pandas, and NumPy. It also includes useful real-world topics such as file handling, serialization, exception handling, and more.
 
-#### Refer this blog for every single resource
+#### Try this quiz to check your Level in python!
 
-[Blog](https://shorturl.at/CVc5c)
+[Quiz](https://pppwebapp.web.app/)
 
 ---
 
