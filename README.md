@@ -1,13 +1,38 @@
 # Python-for-beginners
 
+Welcome! This repository is designed for anyone starting with Python, offering hands-on practice with core concepts, data types, and essential libraries like Matplotlib, Pandas, and NumPy. It also includes useful real-world topics such as file handling, serialization, exception handling, and more.
 
-Here i'm learning the basics of Python programming and exploring various data types and essential libraries such as Matplotlib, Pandas, and NumPy. I also added some short but yet very useful in development like file handling serialization and deserialization, exception handling, decorators and namespaces.
-The project aims to provide hands-on experience with Python's core concepts and commonly used data manipulation and visualization libraries.
+#### Try this quiz to check your Level in python!
 
-#### Refer this blog for every single resource
+[Quiz](https://pppwebapp.web.app/)
 
-[Blog](https://shorturl.at/CVc5c)
+---
 
+## 📁 Repository Structure
+
+To make it easy for you to find what you need, here’s how the files and folders are organized:
+
+```
+Python-for-beginners/
+│
+├── notebooks/      # Jupyter notebooks for interactive learning (Numpy, Pandas, Seaborn, etc.)
+├── scripts/        # Standalone Python scripts for algorithms, demos, and exercises
+├── resources/      # PDF books, cheat sheets, and other learning materials
+├── docs/           # Documentation and extra guides
+├── data/           # Sample data files for practice
+├── .github/        # GitHub configuration files
+├── README.md       # You are here! Main guide for the repo
+└── requirements.txt# (Add your dependencies here if needed)
+```
+
+### What you’ll find in each folder:
+- **notebooks/**: Interactive, step-by-step explanations and code for each topic. Great for experimentation!
+- **scripts/**: Ready-to-run Python files for algorithms (searching, sorting, etc.), examples, and small projects.
+- **resources/**: Handy PDFs, notes, and cheat sheets for quick reference.
+- **docs/**: Extra documentation or guides (e.g., how to use a package).
+- **data/**: Small datasets or files for practicing file handling and data analysis.
+
+---
 
 ## Installation
 
