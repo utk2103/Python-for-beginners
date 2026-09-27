@@ -1,0 +1,11 @@
+# Core data stack used by the notebooks
+numpy
+pandas
+matplotlib
+seaborn
+
+# To run the notebooks locally
+jupyterlab
+
+# Used only by scripts/pdf2doc.py
+pdf2docx
