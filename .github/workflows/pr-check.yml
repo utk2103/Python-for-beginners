@@ -1,0 +1,26 @@
+name: PR check
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Structure and CONTRIBUTING rules
+        run: python .github/check_pr.py --base origin/${{ github.base_ref }}
+
+      - name: Every script compiles
+        run: python -m compileall -q scripts
+
+      - name: Tests
+        run: python -m unittest discover tests -v
