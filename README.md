@@ -69,7 +69,7 @@ Work top to bottom. Each notebook is self-contained, so you can also jump straig
 | [Seaborn 1](notebooks/Seaborn%201.ipynb) → [2](notebooks/Seaborn%202.ipynb) → [3](notebooks/Seaborn%203.ipynb) → [4](notebooks/Seaborn%204.ipynb) | statistical plots, distributions, categorical plots, heatmaps |
 
 ### 5. Runnable scripts
-Algorithms and small programs in [`scripts/`](scripts/) — searching, sorting, recursion, CLIs, threading, `enum`. A full index with one-line descriptions is [issue #15](https://github.com/utk2103/Python-for-beginners/issues/15), up for grabs.
+Algorithms and small programs in [`scripts/`](scripts/) — searching, sorting, recursion, CLIs, threading, `enum`. The full index with one-line descriptions and how to run each one is in [`docs/scripts.md`](docs/scripts.md).
 
 ---
 
