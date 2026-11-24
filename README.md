@@ -49,7 +49,7 @@ Work top to bottom. Each notebook is self-contained, so you can also jump straig
 ### 2. Data structures
 | Notebook | Covers |
 |--|--|
-| [Lists](notebooks/pc_list.ipynb) | indexing, slicing, list methods, comprehensions |
+| [Lists](notebooks/Lists.ipynb) | indexing, slicing, list methods, comprehensions |
 | [Dictionaries](notebooks/Dictionaries.ipynb) | key/value access, iteration, nesting |
 
 ### 3. Real-world Python
@@ -58,7 +58,7 @@ Work top to bottom. Each notebook is self-contained, so you can also jump straig
 | [Exception handling](notebooks/Exception%20handling%20.ipynb) | `try`/`except`/`else`/`finally`, raising, custom errors |
 | [File handling + serialization (1)](notebooks/File%20Handling%20%2B%20Serialization%20%26%20Deserialization-1.ipynb) | reading/writing files, modes, context managers |
 | [File handling + serialization (2)](notebooks/File%20Handling%20%2B%20Serialization%20%26%20Deserialization-2.ipynb) | JSON and `pickle` round-trips |
-| [Decorators & namespaces](Decorators%20%26%20Namespaces/Decorators%20%26%20Namespaces.ipynb) | closures, `@decorator`, LEGB scope rules |
+| [Decorators & namespaces](notebooks/Decorators_and_Namespaces.ipynb) | closures, `@decorator`, LEGB scope rules |
 
 ### 4. The data stack
 | Notebook | Covers |
@@ -79,7 +79,6 @@ Algorithms and small programs in [`scripts/`](scripts/) — searching, sorting, 
 Python-for-beginners/
 ├── notebooks/                 # Interactive lessons, one topic per notebook
 ├── scripts/                   # Standalone runnable .py files
-├── Decorators & Namespaces/   # Decorator + scope notebook
 ├── data/                      # Small sample files (txt, json, pkl) for practice
 ├── docs/                      # Extra guides (pdf2docx setup, Tower of Hanoi visual)
 ├── resources/                 # Reference PDFs, cheat sheets, notes
